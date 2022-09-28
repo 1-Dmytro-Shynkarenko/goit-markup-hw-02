@@ -8,7 +8,6 @@ background-color: #ffffff;}
     color: #2196F3;
 }
 .company-name {
-color: #000000;
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
@@ -56,7 +55,9 @@ letter-spacing: 0.03em;
 color: #FFFFFF;
 }
 
+.address{ 
 
+}
 
 
 { }
