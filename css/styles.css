@@ -26,7 +26,7 @@ letter-spacing: 0.03em;
 background: #FFFFFF;
  }
 
-.header{
+.header .header-current{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -43,12 +43,15 @@ color: #2196F3;
 color: #2196F3;
 }
 
-.header-current:current(a){ 
+.header .header-current :visited{
+color: #212121;
+}
+
+:current(a){ 
 color: #2196F3;
 }
 
-
-.header-mail{
+.header-contacts .header-mail{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -58,7 +61,7 @@ letter-spacing: 0.02em;
 color: #757575;
 }
 
-.header-phone{
+.header-contacts .header-phone{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -68,19 +71,19 @@ letter-spacing: 0.02em;
 color: #757575;
 }
 
-.header-phone:hover{ 
+.header-contacts .header-phone:hover{ 
 color: #2196F3;
 }
 
-.header-phone:focus{ 
+.header-contacts .header-phone:focus{ 
 color: #2196F3;
 }
 
-.header-mail:hover{ 
+.header-contacts .header-mail:hover{ 
     color: #2196F3;
     }
     
-    .header-mail:focus{ 
+    .header-contacts .header-mail:focus{ 
     color: #2196F3;
     }
 
