@@ -47,7 +47,7 @@ color: #2196F3;
 color: #212121;
 }
 
-:current(ul, li, a){ 
+.header .header-current :current(ul, li, a) { 
 color: #2196F3;
 }
 
@@ -97,6 +97,9 @@ font-style: normal;
 font-weight: 900;
 font-size: 44px;
 line-height: 60px;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
 color: #FFFFFF;
 }
 
@@ -110,6 +113,12 @@ color: #FFFFFF;
 background: #2196F3;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
+}
+
+.section-1-button :focus,
+.section-1-button :hover,
+.section-1-button :active{
+visibility: hidden;
 }
 
 .section-2{ 
