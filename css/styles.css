@@ -116,13 +116,13 @@ border-radius: 4px;
 cursor: pointer;
 }
 
-.section-1-background .section-1-button :focus{
+.section-1-button :focus{
 visibility: hidden;
 }
-.section-1-background .section-1-button :hover{
+.section-1-button :hover{
 visibility: hidden;
 }
-.section-1-background .section-1-button :active{
+.section-1-button :active{
 visibility: hidden;
 }
 
