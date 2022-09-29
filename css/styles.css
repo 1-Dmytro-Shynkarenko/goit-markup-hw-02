@@ -130,9 +130,6 @@ border-radius: 4px;
     border-radius: 4px;
 }
 
-.section-2{ 
-
-}
 .visually-hidden {
 position: absolute;
 white-space: nowrap;
@@ -249,8 +246,6 @@ background: #2F303A;
 
 .button-list .portfolio-button {
 color: #212121;
-background: #F5F4FA;
-cursor: pointer;
 }
 
 .portfolio-button-style {
@@ -264,6 +259,7 @@ letter-spacing: 0.03em;
 color: #212121;
 background: #F5F4FA;
 border-radius: 4px;
+cursor: pointer;
 }
 
 .button-list .portfolio-button :focus {
