@@ -58,7 +58,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
-color: #757575;
+color: #2196F3;
 }
 
 .header-contacts .header-phone{
@@ -115,9 +115,9 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
 }
 
-.section-1 .section-1-button :focus,
-.section-1 .section-1-button :hover,
-.section-1 .section-1-button :active{
+.section-1-button :focus,
+.section-1-button :hover,
+.section-1-button :active{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -235,6 +235,16 @@ color: #FFFFFF;
 .footer-background{
 background: #2F303A;
 }
+
+.header-contacts .footer-mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;   
+    color: #757575;
+    }
 
 
 
