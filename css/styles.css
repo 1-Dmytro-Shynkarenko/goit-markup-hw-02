@@ -43,26 +43,46 @@ color: #2196F3;
 color: #2196F3;
 }
 
-.header-current:current{ 
+.header-current:current(a){ 
 color: #2196F3;
 }
 
-.header-contacts{
+
+.header-mail{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
-color: #757575;}
+color: #757575;
+}
 
-.header-contacts .header-mail-phone:hover{ 
+.header-phone{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;   
+color: #757575;
+}
+
+.header-phone:hover{ 
 color: #2196F3;
 }
 
-.header-contacts .header-mail-phone:focus{ 
+.header-phone:focus{ 
 color: #2196F3;
 }
+
+.header-mail:hover{ 
+    color: #2196F3;
+    }
+    
+    .header-mail:focus{ 
+    color: #2196F3;
+    }
 
 .section-1-background{ 
 background: #2F303A;
@@ -130,7 +150,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
-text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
 }
@@ -145,7 +164,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
-text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
 }
@@ -194,3 +212,10 @@ color: #FFFFFF;
 .color-studio-footer{ 
 color: #FFFFFF;
 }
+.footer-background{
+background: #2F303A;
+}
+
+
+
+{}
