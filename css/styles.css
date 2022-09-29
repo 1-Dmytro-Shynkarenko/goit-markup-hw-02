@@ -3,10 +3,16 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif;
 background-color: #ffffff;}
 
+ul { list-style: none; }
 
 .web-colour-blue {
     color: #2196F3;
 }
+
+.color-studio-head { 
+color: #000000
+}
+
 .company-name {
 font-family: 'Raleway';
 font-style: normal;
@@ -15,6 +21,11 @@ font-size: 26px;
 line-height: 31px;
 letter-spacing: 0.03em;
  }
+
+.header-background { 
+background: #FFFFFF;
+ }
+
 .header{
 font-family: 'Roboto';
 font-style: normal;
@@ -24,6 +35,18 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121 ;}
 
+.header .header-current:hover{ 
+color: #2196F3;
+}
+    
+.header .header-current:focus{ 
+color: #2196F3;
+}
+
+.header-current:current{ 
+color: #2196F3;
+}
+
 .header-contacts{
 font-family: 'Roboto';
 font-style: normal;
@@ -31,10 +54,123 @@ font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
+color: #757575;}
 
+.header-contacts .header-mail-phone:hover{ 
+color: #2196F3;
+}
+
+.header-contacts .header-mail-phone:focus{ 
+color: #2196F3;
+}
+
+.section-1-background{ 
+background: #2F303A;
+}
+
+.section-1{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+color: #FFFFFF;
+}
+
+.section-1-button{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+color: #FFFFFF;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.section-2{ 
+
+}
+.visually-hidden {
+position: absolute;
+white-space: nowrap;
+width: 1px;
+height: 1px;
+overflow: hidden;
+border: 0;
+padding: 0;
+clip: rect(0 0 0 0);
+clip-path: inset(50%);
+margin: -1px;
+}
+.section-2-title{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.section-2-descr{ 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;  
+letter-spacing: 0.03em;
+ color: #757575;
+}
+
+.section-3-title{ 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.section-4{
+background: #F5F4FA;
+}
+
+.section-4-title{ 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.section-4-name{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121; 
+
+}
+.section-4-position{ 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.03em;
 color: #757575;
+}
 
- }
 .footer-contacts{
 font-family: 'Roboto';
 font-style: normal;
@@ -55,8 +191,8 @@ letter-spacing: 0.03em;
 color: #FFFFFF;
 }
 
-.address{ 
-
+.color-studio-footer{ 
+color: #FFFFFF;
 }
 
 
