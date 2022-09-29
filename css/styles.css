@@ -47,7 +47,7 @@ color: #2196F3;
 color: #212121;
 }
 
-:current(a){ 
+:current(ul, li, a){ 
 color: #2196F3;
 }
 
