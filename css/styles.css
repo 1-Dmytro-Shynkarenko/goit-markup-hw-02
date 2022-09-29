@@ -248,6 +248,12 @@ background: #2F303A;
     }
 
 .button-list .portfolio-button {
+color: #212121;
+background: #F5F4FA;
+cursor: pointer;
+}
+
+.portfolio-button-style {
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -258,8 +264,8 @@ letter-spacing: 0.03em;
 color: #212121;
 background: #F5F4FA;
 border-radius: 4px;
-cursor: pointer;
 }
+
 .button-list .portfolio-button :focus {
 color: #FFFFFF;
 background: #2196F3;
