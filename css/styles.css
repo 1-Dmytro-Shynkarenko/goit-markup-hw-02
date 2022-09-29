@@ -240,6 +240,15 @@ background: #2F303A;
     color: #757575;
     }
 
+    .header-contacts .footer-mail:hover{ 
+        color: #2196F3;
+        }
+        
+        .header-contacts .footer-mail:focus{ 
+        color: #2196F3;
+        }
+    
+
 .portfolio-button-style {
 font-family: 'Roboto';
 font-style: normal;
