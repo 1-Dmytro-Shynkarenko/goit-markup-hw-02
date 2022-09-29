@@ -241,12 +241,12 @@ background: #2F303A;
     }
 
     .header-contacts .footer-mail:hover{ 
-        color: #2196F3;
-        }
+    color: #2196F3;
+    }
         
-        .header-contacts .footer-mail:focus{ 
-        color: #2196F3;
-        }
+    .header-contacts .footer-mail:focus{ 
+    color: #2196F3;
+    }
     
 
 .portfolio-button-style {
