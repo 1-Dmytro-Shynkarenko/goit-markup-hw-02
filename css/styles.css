@@ -208,6 +208,14 @@ color: #757575;
 font-style: normal;
 }
 
+.header-contacts .footer-mail{
+font-style: normal;
+}
+
+.footer-mail .header-mail{
+font-style: normal;
+}
+
 .header-contacts .footer-mail:hover{ 
 color: var(--blue);
 }
