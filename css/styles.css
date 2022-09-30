@@ -59,7 +59,7 @@ letter-spacing: 0.02em;
 color: var(--blue);
 }
 
-.header-contacts .header-phone{
+.header-phone{
 font-style: normal;
 font-weight: 500;
 line-height: calc(16/14);
@@ -198,7 +198,7 @@ color: var(--white);
 background: #2F303A;
 }
 
-.header-contacts .footer-mail{
+.footer-mail{
 font-style: normal;
 font-weight: 500;
 line-height: calc(16/14);
