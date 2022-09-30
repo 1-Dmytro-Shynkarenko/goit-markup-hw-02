@@ -53,6 +53,7 @@ color: var(--Black21);
 }
 
 .header-contacts .header-mail{
+font-style: normal;
 font-weight: 500;
 line-height: calc(16/14);
 letter-spacing: 0.02em;
@@ -60,6 +61,7 @@ color: var(--blue);
 }
 
 .header-contacts .header-phone{
+font-style: normal;
 font-weight: 500;
 line-height: calc(16/14);
 letter-spacing: 0.02em;   
@@ -183,7 +185,8 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 
-.Map{ 
+.Map{
+font-style: normal;
 line-height: calc(24/14);
 letter-spacing: 0.03em;
 color: var(--white);
@@ -197,6 +200,7 @@ background: #2F303A;
 }
 
 .header-contacts .footer-mail{
+font-style: normal;
 font-weight: 500;
 line-height: calc(16/14);
 letter-spacing: 0.02em;   
