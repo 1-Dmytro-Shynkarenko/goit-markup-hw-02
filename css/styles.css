@@ -45,7 +45,7 @@ color: var(--blue);
 color: var(--blue);
 }
 
-.header .header-current :visited{
+.header-current :visited{
 color: var(--Black21);
 }
 
