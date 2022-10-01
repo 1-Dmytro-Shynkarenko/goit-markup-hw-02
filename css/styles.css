@@ -247,6 +247,6 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 
-:current(.current){
-    color: var(--blue);
+.nav.link.current {
+color: var(--blue);
 }
