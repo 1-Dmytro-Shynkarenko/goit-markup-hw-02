@@ -247,6 +247,5 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 
-.nav.link.current {
-color: var(--blue);
-}
+a.header-current.current.Class\=“link.current” {
+color: var(--blue)}
