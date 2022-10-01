@@ -247,5 +247,5 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 
-a.header-current.current.Class\=“link.current” {
+a.header-current.current{
 color: var(--blue)}
