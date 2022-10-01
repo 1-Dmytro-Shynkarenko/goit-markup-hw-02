@@ -30,15 +30,12 @@ line-height: calc(31/26);
 letter-spacing: 0.03em;
  }
 
-.header-background { 
-background: var(--white);
- }
 
 .header .header-current{
 font-weight: 500;
 line-height: calc(16/14);
 letter-spacing: 0.02em;
-color: var(--Black21) ;}
+}
 
 .header .header-current:hover{ 
 color: var(--blue);
@@ -136,7 +133,6 @@ font-size: 14px;
 line-height: calc(16/14);
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--Black21);
 }
 .section-2-descr{ 
 line-height: calc(24/14);  
@@ -148,7 +144,6 @@ color: #757575;
 font-size: 36px;
 line-height: calc(42/36);
 letter-spacing: 0.03em;
-color: var(--Black21);
 }
 
 .section-4{
@@ -156,7 +151,6 @@ background: #F5F4FA;
 }
 
 .section-4-card-list .section-4-card-background{
-background: var(--white);
 border-radius: 0px 0px 4px 4px;
 box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
 }
@@ -165,7 +159,6 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
 font-size: 36px;
 line-height: calc(42/36);
 letter-spacing: 0.03em;
-color: var(--Black21);
 }
 .section-4-name{
 font-weight: 500;
@@ -173,8 +166,6 @@ font-size: 16px;
 line-height: calc(19/16);
 text-align: center;
 letter-spacing: 0.03em;
-color: var(--Black21); 
-
 }
 .section-4-position{ 
 font-size: 16px;
@@ -221,7 +212,6 @@ font-size: 16px;
 line-height: calc(26/16);
 text-align: center;
 letter-spacing: 0.03em;
-color: var(--Black21);
 background: #F5F4FA;
 border-radius: 4px;
 cursor: pointer;
@@ -241,7 +231,6 @@ background: var(--blue);
 }
 
 .portfolio-list .portfolio-img{
-background: var(--white);
 border: 1px solid #EEEEEE;
 }
 
@@ -249,7 +238,6 @@ border: 1px solid #EEEEEE;
 font-size: 18px;
 line-height: calc(36/18);
 letter-spacing: 0.06em;
-color: var(--Black21);
 }
 .portfolio-text{
 font-size: 16px;
