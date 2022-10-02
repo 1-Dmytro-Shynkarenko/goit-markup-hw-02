@@ -144,6 +144,12 @@ letter-spacing: 0.03em;
 background: #F5F4FA;
 }
 
+.team-title{ 
+font-size: 36px;
+line-height: calc(42/36);
+letter-spacing: 0.03em;
+}
+
 .employee-card{
 background-color: var(--white);
 border-radius: 0px 0px 4px 4px;
