@@ -68,12 +68,8 @@ color: var(--blue);
 
 .contact-link:hover{ 
 color: var(--blue);
-    }
+}
     
-.contact-link:focus{ 
-color: var(--blue);
- }
-
 a.nav-link.current{
 color: var(--blue);
 }
