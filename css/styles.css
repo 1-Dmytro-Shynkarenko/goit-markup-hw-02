@@ -39,11 +39,11 @@ letter-spacing: 0.02em;
 color: var(--Black21);
 }
     
-a.nav-link:focus { 
+.nav-list .nav-link:focus { 
 color: var(--blue);
 }
 
-a.nav-link:hover {
+.nav-list .nav-link:hover {
 color: var(--blue);
 }
 
