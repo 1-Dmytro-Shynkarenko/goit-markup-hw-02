@@ -43,6 +43,10 @@ color: var(--Black21);
 color: var(--blue);
 }
 
+.nav-link:hover{
+color: var(--blue);
+}
+
 .nav-link:visited{
 color: var(--Black21);
 }
